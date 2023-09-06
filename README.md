@@ -23,4 +23,4 @@ We welcome contributions to the Netflix Shares Analysis Project from the open-so
 1.Fork and Clone the Repository<br>
 2.Create a Branch<br>
 3.Make Changes,test, commit changes and Push Changes <br>
-4.Create a Pull Request<br>
+4.Create a Pull Request<br> 
